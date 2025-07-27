@@ -36,19 +36,19 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                                            |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  título  | Crie um título de um ebook sobre o tema de Java Spring Boot, o ebook é do nicho de programação e o subnicho é de Spring Boot, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                       |
-| conteúdo | Faça um texto para ebook , com foco em Spring Boot, listando os principais fundamentos do framework com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  Título  | Crie um título de um ebook sobre o tema de Java Spring Boot, o ebook é do nicho de programação e o subnicho é de Spring Boot, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                       |
+| Conteúdo | Faça um texto para ebook , com foco em Spring Boot, listando os principais fundamentos do framework com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
 
-Midjourney：
+Bing Image Creator：
 
 |  Ação  | prompt                                                                          |
 | :----: | ------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your green lightsaber floating, pixel art style |
+| Título | A jedi in meditation pose, with your green lightsaber floating, pixel art style |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Bing Image Creator
 
 ## 📚 Materiais
 

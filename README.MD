@@ -72,6 +72,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     <strong>Léo Matias</strong><br>
     <a href="https://github.com/leomatiazzz">GitHub</a> |
     <a href="https://www.linkedin.com/in/leomatias">LinkedIn</a> |
+    <a href="https://www.linkedin.com/posts/leomatias_e-book-de-spring-boot-produzido-por-l%C3%A9o-matias-activity-7355265399812218885-RAlJ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADffVnkB2hZi0pnYHAKUnrgy1PYcOGmOZJY">Artigo do LinkedIn</ a> |
     <a href="https://www.instagram.com/leomvtias/">Instagram</a>
   </p>
 </div>

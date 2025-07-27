@@ -61,26 +61,22 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ## 👨‍💻 Criador
 
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=100 
-      src="https://avatars.githubusercontent.com/u/147726158?v=4"
-    />
-    <p>&nbsp&nbsp&nbspLéo Matias<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/leomatiazzz">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/leomatias">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/leomvtias/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
+<div>
+  <img 
+    align="left" 
+    style="margin: 10px;" 
+    width="100" 
+    src="https://avatars.githubusercontent.com/u/147726158?v=4"
+  />
+  <p>
+    <strong>Léo Matias</strong><br>
+    <a href="https://github.com/leomatiazzz">GitHub</a> |
+    <a href="https://www.linkedin.com/in/leomatias">LinkedIn</a> |
+    <a href="https://www.instagram.com/leomvtias/">Instagram</a>
+  </p>
+</div>
 
 ---
 
 ⌨️ com 💜 por [Léo Matias](https://github.com/leomatiazzz)
+
